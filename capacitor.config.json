@@ -1,0 +1,25 @@
+{
+  "appId": "com.king.imageeditor",
+  "appName": "King Image Editor",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "allowNavigation": [
+      "*.google.com",
+      "*.googleapis.com",
+      "*.firebaseapp.com",
+      "*.firebase.google.com",
+      "accounts.google.com"
+    ]
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
