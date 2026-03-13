@@ -43,3 +43,19 @@ King Image Editor-la simple adjustments mattum illama, advanced tools-um irukku:
 * **📏 Resolution Control:** 1080p (Full HD), 720p, or Original resolution-la export panna mudiyum.
 * **💧 Watermark Tool:** Unga brand logo or text-ah watermark-ah easy-ah set pannikalam.
 * **🛡️ Secure Batch Export:** Multiple sizes-la (1080p, 720p, 480p) ore click-la export panni time save pannalam.
+
+
+
+## 🛡️ Security & Privacy (பயனர் பாதுகாப்பு)
+
+Users-oda privacy thaan engalukku romba mukkiyam. Intha app-ah neenga bayam illama use panlam:
+
+* **🚫 No Data Collection:** Intha app unga personal details (Name, Email, Contacts) ethaiyum collect pannathu.
+* **🌐 100% Offline:** Intha editor muluukka offline-la work aagum. Neenga edit panra photos unga phone-laye thaan irukkum, entha server-kum upload aagathu.
+* **📂 Minimal Permissions:** Photos-ah edit panni save panna mattum thaan `Storage Access` kekkum. Ithai thavira Location, Camera, or Call logs access ethuvum intha app kekkaathu.
+* **🔍 Open Source:** Intha app-oda code full-ah ingeye irukkurathaala, yaaru venaalum check panni paathukalam. Transparency is our priority!
+
+### 🧪 Security Check
+Neenga intha APK-va innum confirm panna, [VirusTotal](https://www.virustotal.com/) la upload panni check pannikalam. 
+
+> **Note:** Since this is a self-developed APK (not on Play Store), your phone might show a "Unknown Source" warning. This is normal for all manual APK installations.
