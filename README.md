@@ -27,3 +27,19 @@ A powerful, high-performance web and Android-based image editing application. Th
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/ponkarthickramu16-byte/king-editor-web-androidapk.git](https://github.com/ponkarthickramu16-byte/king-editor-web-androidapk.git)
+
+
+
+
+## 🚀 Advanced Features (நவீன அம்சங்கள்)
+
+King Image Editor-la simple adjustments mattum illama, advanced tools-um irukku:
+
+* **🤖 AI Background Remover:** Single click-la unga photo-voda background-ah remove pannalam. Professional results instantly!
+* **🖼️ Smart Collage Builder:** Multiple layouts (Grid, Side-by-Side, etc.) use panni nalla collage create pannalam.
+* **🎭 Frames & Borders:** Polaroid, Shadow, Vignette-nu variety-ana borders add pannikalam.
+* **✍️ Professional Typography:** DM Sans, Bebas Neue-nu nalla fonts-la text add panni, stroke and opacity adjust pannalam.
+* **📁 Multi-Format Support:** PNG, JPG, WebP-nu entha format-la venaalum save pannikalam.
+* **📏 Resolution Control:** 1080p (Full HD), 720p, or Original resolution-la export panna mudiyum.
+* **💧 Watermark Tool:** Unga brand logo or text-ah watermark-ah easy-ah set pannikalam.
+* **🛡️ Secure Batch Export:** Multiple sizes-la (1080p, 720p, 480p) ore click-la export panni time save pannalam.
